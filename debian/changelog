@@ -1,5 +1,5 @@
 libipathverbs (1.1-1) unstable; urgency=low
 
-  * Initial Release.  (Closes: #xxxxxx)
+  * Initial Release.  (Closes: #473875)
 
  -- Roland Dreier <rolandd@cisco.com>  Sun, 30 Mar 2008 09:27:38 -0700
