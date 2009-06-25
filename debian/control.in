@@ -32,7 +32,7 @@ Description: Development files for the libipathverbs driver
  directly to an application, which may be useful for debugging.
 
 Package: libipathverbs1-dbg
-Section: libdevel
+Section: debug
 Priority: extra
 Architecture: any
 Depends: ${misc:Depends}, libipathverbs1 (= ${binary:Version})
