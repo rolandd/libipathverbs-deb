@@ -1,3 +1,9 @@
+libipathverbs (1.1-2) unstable; urgency=low
+
+  * Update to Standards-Version: 3.8.2.
+
+ -- Roland Dreier <rolandd@cisco.com>  Thu, 25 Jun 2009 10:28:02 -0700
+
 libipathverbs (1.1-1) unstable; urgency=low
 
   * Initial Release.  (Closes: #473875)
