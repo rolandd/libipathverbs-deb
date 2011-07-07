@@ -1,2 +1,2 @@
-usr/lib/libipathverbs-rdmav2.so
+usr/lib/libipathverbs-rdmav2.so		/usr/lib/libibverbs/
 etc/libibverbs.d/ipath.driver

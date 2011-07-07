@@ -1,0 +1,10 @@
+Description: Tell libibverbs to look in /usr/lib/libibverbs for plugin library
+Author: Roland Dreier <roland@digitalvampire.org>
+
+Index: libipathverbs-deb.git/ipath.driver
+===================================================================
+--- libipathverbs-deb.git.orig/ipath.driver	2011-07-06 23:50:03.942300118 -0700
++++ libipathverbs-deb.git/ipath.driver	2011-07-06 23:50:25.991435477 -0700
+@@ -1 +1 @@
+-driver ipathverbs
++driver /usr/lib/libibverbs/libipathverbs
