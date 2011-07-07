@@ -2,8 +2,10 @@ libipathverbs (1.2-1) unstable; urgency=low
 
   * New upstream release.
   * Switch to dpkg-source 3.0 (quilt) format.
+  * Change build system from cdbs to debhelper 7.
+  * Update maintainer and set DM-Upload-Allowed to yes.  (Closes: #632107)
 
- -- Roland Dreier <roland@digitalvampire.org>  Tue, 26 Apr 2011 12:41:37 -0700
+ -- Roland Dreier <roland@digitalvampire.org>  Wed, 06 Jul 2011 23:34:24 -0700
 
 libipathverbs (1.1-3) unstable; urgency=low
 
